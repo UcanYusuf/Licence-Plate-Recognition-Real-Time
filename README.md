@@ -62,3 +62,8 @@ Change line 39 in detect.py with for gpu:
     
 ![result1](https://user-images.githubusercontent.com/68384469/155912193-b5165247-fbfe-4bce-a5a0-72b9f07378a1.png)
 
+Contact
+
+yusufucan2541@gmail.com 
+
+Please report any issues you've noticed and things that could be improved. 
