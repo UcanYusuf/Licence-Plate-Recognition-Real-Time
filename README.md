@@ -13,6 +13,7 @@ Requirements
 -Cuda and Cudnn
 
 Using
+
     1- conda create --name LicencePlate python=3.7 anaconda
     2- git clone https://github.com/THINK989/Automatic_License_Plate_Detector_for_Adverse_Environments 
     3- cd yolov5
