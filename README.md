@@ -59,3 +59,6 @@ Change line 39 in detect.py with for cpu:
 Change line 39 in detect.py with for gpu:
 
     -device = torch_utils.select_device("0")
+    
+![result1](https://user-images.githubusercontent.com/68384469/155912193-b5165247-fbfe-4bce-a5a0-72b9f07378a1.png)
+
