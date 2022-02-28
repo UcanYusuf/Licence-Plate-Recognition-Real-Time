@@ -21,7 +21,8 @@ Using
     5- pip install pytesseract 
     6- pip install imutils
 
--Download this repo after you have done all the necessary installations. 
+-Download this repo after you have done all the necessary installations.
+
 -Then replace the files in this repo with the files from the original project.
 
 Files to be replaced and their locations: 
