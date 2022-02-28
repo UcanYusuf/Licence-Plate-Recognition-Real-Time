@@ -7,10 +7,10 @@ Here you can visit from: https://github.com/THINK989/Automatic_License_Plate_Det
 
 Requirements
 
--YoloV5
--Tesseract OCR
--OpenCV
--Cuda and Cudnn
+    -YoloV5
+    -Tesseract OCR
+    -OpenCV
+    -Cuda and Cudnn
 
 Installation
 
