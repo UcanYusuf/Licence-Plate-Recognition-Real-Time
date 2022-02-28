@@ -177,7 +177,7 @@ def ProjectMain(camera_plaka_reader_val, camera_plaka_reader_val_text):
             elif lpText != None and lpText in lpText_List:
                 lpText_List.append(lpText)
             
-            if lpText != None and len(lpText_List)>2 and len(lpText)>5:
+            if lpText != None and len(lpText_List)>0 and len(lpText)>5: # This line for eliminate some wrong detect.
                 camera_plaka_reader_val_text.value = lpText
                 print("[INFO] {}".format(lpText))
             else:
