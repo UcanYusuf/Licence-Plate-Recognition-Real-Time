@@ -28,7 +28,6 @@ Step 2) Then replace the files in this repo with the files from the original pro
 Files to be replaced and their locations: 
 
     -detect.py ----> in yolov5
-    -datasets.py ----> in yolov5/utils
 
 Test Environment
 
